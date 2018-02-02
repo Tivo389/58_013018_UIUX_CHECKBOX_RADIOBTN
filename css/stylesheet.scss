@@ -4,7 +4,14 @@
 @import '_font';
 @import '_general';
 
-
+.row {
+  .col-xs-6.half--block {
+    height: 100vh;
+    &:first-child {
+      border-right: 1px solid $color--gray-light;
+    }
+  }
+}
 
 /* BOOTSTRAP NOTES & RESOLUTION REFERENCE */
 // xs < 768px (.container @ auto)
