@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"fill-",
+				"fill--c\t stylesheet.css"
+			],
+			[
+				"min",
+				"min-height\t(_general.scss)"
+			],
+			[
+				"contain",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"hei",
+				"height--100\t stylesheet.css"
+			],
+			[
+				"flex",
+				"flex--direction--column\t stylesheet.css"
+			],
+			[
 				"color__",
 				"color__theme--sub\t _home.scss"
 			],
@@ -37,10 +65,6 @@
 			],
 			[
 				"felx",
-				"flex--center--center\t(index.html.erb)"
-			],
-			[
-				"flex",
 				"flex--center--center\t(index.html.erb)"
 			],
 			[
@@ -490,35 +514,29 @@
 			[
 				"hide",
 				"hidden-sm \tBootstrap 3 Class"
-			],
-			[
-				"backg",
-				"background-color"
-			],
-			[
-				"icon",
-				"icon-bar"
-			],
-			[
-				"btn__",
-				"btn__triangle\t(home.html.erb)"
-			],
-			[
-				"backgrc",
-				"background-color"
-			],
-			[
-				"background",
-				"background-color"
-			],
-			[
-				"space",
-				"space-around"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3886,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheet.scss",
+			"settings":
+			{
+				"buffer_size": 1107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -708,6 +726,15 @@
 	],
 	"file_history":
 	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_font.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_variable.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_general.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/HTML/V7_JAN_2018/css/_general.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/HTML/V7_JAN_2018/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/56_012218_UIUX_PREFECTURE_DROPDOWN/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/56_012218_UIUX_PREFECTURE_DROPDOWN/index.html",
 		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/notes_deals.html.erb",
 		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/_deals_shipments_list.html.erb",
 		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/index.html.erb",
@@ -826,16 +853,7 @@
 		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_branding.scss",
 		"/Users/SHUN/code/Tivo389/transroad/config/locales/en.yml",
 		"/Users/SHUN/code/Tivo389/transroad/config/locales/devise.en.yml",
-		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_footer.scss",
-		"/Users/SHUN/code/Tivo389/transroad/app/assets/images/00_shipper_set.svg",
-		"/Users/SHUN/code/Tivo389/transroad/app/assets/images/00_carrier_set.svg",
-		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_image.scss",
-		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/99_IMAGES/01_carrier.svg",
-		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/99_IMAGES/01_shipper.svg",
-		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/99_IMAGES/02_carrier.svg",
-		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/99_IMAGES/02_shipper.svg",
-		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/99_IMAGES/03_carrier.svg",
-		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/99_IMAGES/03_shipper.svg"
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_footer.scss"
 	],
 	"find":
 	{
@@ -853,6 +871,45 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<label",
+			"Default",
+			"<label",
+			"Checked",
+			"checked",
+			"<h4>Default</h4>",
+			"id=",
+			"id",
+			"for",
+			"id=",
+			"id",
+			"radioBtn",
+			"checkBox",
+			"checkbox",
+			"checkBox",
+			"checkbox",
+			"checkBox",
+			"checkbox",
+			"checkBox",
+			"checkbox",
+			"check_",
+			"radioBtn1",
+			"checkBox4",
+			"checkBox2",
+			"checkBox",
+			"checkBox2",
+			"checkBox1",
+			"      \n",
+			"TEST",
+			"TEST2",
+			" class=\"form-group\"",
+			"form",
+			"input",
+			"group",
+			"chec",
+			"checkBox4",
+			" class=\"control control--checkbox\"",
+			"h1",
+			" debug"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -870,8 +927,412 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										686,
+										689
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										548,
+										551
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "0d3bbd1a",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/stylesheet.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 47,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "e977c582",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -892,11 +1353,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.438023546007,
 			1.0
 		],
 		"rows":
@@ -939,6 +1407,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"font",
+				"css/_font.scss"
+			],
+			[
+				"var",
+				"css/_variable.scss"
+			],
+			[
+				"genera",
+				"css/_general.scss"
+			],
+			[
+				"general",
+				"css/_general.scss"
+			],
+			[
+				"sty",
+				"css/stylesheet.scss"
+			],
 			[
 				"notes",
 				"transroad/app/views/shipper/shipments/notes_shipper_shipments.html.erb"
@@ -1084,16 +1572,8 @@
 				"transroad/app/views/shipper/shipments/index.html.erb"
 			],
 			[
-				"font",
-				"transroad/app/assets/stylesheets/config/_fonts.scss"
-			],
-			[
 				"colorscs",
 				"transroad/app/assets/stylesheets/config/_colors.scss"
-			],
-			[
-				"var",
-				"transroad/app/assets/stylesheets/config/_variables.scss"
 			],
 			[
 				"cardsc",
@@ -1438,18 +1918,6 @@
 			[
 				"applicationhtmler",
 				"transroad/app/views/layouts/application.html.erb"
-			],
-			[
-				"home",
-				"transroad/app/views/pages/home.html.erb"
-			],
-			[
-				"carriercontrol",
-				"transroad/app/controllers/carriers/registrations_controller.rb"
-			],
-			[
-				"assets.rb",
-				"transroad/config/initializers/assets.rb"
 			]
 		],
 		"width": 0.0
@@ -1472,7 +1940,7 @@
 		],
 		"width": 392.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
