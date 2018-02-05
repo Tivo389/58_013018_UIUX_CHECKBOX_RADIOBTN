@@ -13,92 +13,98 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-6 half--block flex--center--center">
-      <div class="debug">
-        <div>
-          <input id="checkBox1" name="check_1" type="checkbox"/>
+      <div class="">
+        <h4 class="text-left">Default Checkbox</h4>
+        <div class="input--group">
+          <input id="checkBox1" name="check1" type="checkbox"/>
           <label for="checkBox1">Default Checkbox</label>
         </div>
-        <div>
-          <input id="checkBox2" name="check_2" type="checkbox" checked="checked">
+        <div class="input--group">
+          <input id="checkBox2" name="check2" type="checkbox" checked="checked">
           <label for="checkBox2">Checked</label>
         </div>
-        <div>
-          <input id="checkBox3" name="check_3" type="checkbox" disabled="disabled">
+        <div class="input--group">
+          <input id="checkBox3" name="check3" type="checkbox" disabled="disabled">
           <label for="checkBox3">Disabled</label>
         </div>
-        <div>
-          <input id="checkBox4" name="check_4" type="checkbox" disabled="disabled" checked="checked">
+        <div class="input--group">
+          <input id="checkBox4" name="check4" type="checkbox" disabled="disabled" checked="checked">
           <label for="checkBox4">Checked &amp; Disabled</label>
         </div>
       </div>
     </div>
     <div class="col-xs-6 half--block flex--center--center">
-      <div class="debug">
-        <div>
-          <input id="checkBoxCss1" name="check_1" type="checkbox"/>
-          <label for="checkBoxCss1">Styled Checkbox</label>
+      <div class="">
+        <h4 class="text-left">CSS Checkbox</h4>
+        <div class="input--group">
+          <input id="checkBoxCss1" class="input--nullify" name="check1" type="checkbox"/>
+          <label class="css--label css--checkbox" for="checkBoxCss1">Styled Checkbox</label>
         </div>
-        <div>
-          <input id="checkBoxCss2" name="check_2" type="checkbox" checked="checked">
-          <label for="checkBoxCss2">Checked</label>
+        <div class="input--group">
+          <input id="checkBoxCss2" class="input--nullify" name="check2" type="checkbox" checked="checked">
+          <label class="css--label css--checkbox" for="checkBoxCss2">Checked</label>
         </div>
-        <div>
-          <input id="checkBoxCss3" name="check_3" type="checkbox" disabled="disabled">
-          <label for="checkBoxCss3">Disabled</label>
+        <div class="input--group">
+          <input id="checkBoxCss3" class="input--nullify" name="check3" type="checkbox" disabled="disabled">
+          <label class="css--label css--checkbox" for="checkBoxCss3">Disabled</label>
         </div>
-        <div>
-          <input id="checkBoxCss4" name="check_4" type="checkbox" disabled="disabled" checked="checked">
-          <label for="checkBoxCss4">Checked &amp; Disabled</label>
+        <div class="input--group">
+          <input id="checkBoxCss4" class="input--nullify" name="check4" type="checkbox" disabled="disabled" checked="checked">
+          <label class="css--label css--checkbox" for="checkBoxCss4">Checked &amp; Disabled</label>
         </div>
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-xs-6 half--block flex--center--center">
-      <div class="debug">
-        <div>
-          <input name="radio_1" type="radio"/>
-          <label>Default Radio Button</label>
+      <div class="">
+        <h4 class="text-left">Default Radio Button</h4>
+        <div class="input--group">
+          <input id="radio1a" name="radio1" type="radio">
+          <label for="radio1a">Option 1a</label>
         </div>
-        <div>
-          <input name="radio_1" type="radio"/>
-          <label>Default</label>
+        <div class="input--group">
+          <input id="radio1b" name="radio1" type="radio">
+          <label for="radio1b">Option 1b</label>
         </div>
-        <div>
-          <input name="radio_2" type="radio" checked="checked">
-          <label>Checked</label>
+        <hr>
+        <div class="input--group">
+          <input id="radio2" name="radio2" type="radio" checked="checked">
+          <label for="radio2">Checked</label>
         </div>
-        <div>
-          <input name="radio_3" type="radio" disabled="disabled">
-          <label>Disabled</label>
+        <div class="input--group">
+          <input id="radio3" name="radio3" type="radio" disabled="disabled">
+          <label for="radio3">Disabled</label>
         </div>
-        <div>
-          <input name="radio_4" type="radio" disabled="disabled" checked="checked">
-          <label>Disabled &amp; checked</label>
+        <div class="input--group">
+          <input id="radio4" name="radio4" type="radio" disabled="disabled" checked="checked">
+          <label for="radio4">Checked &amp; Disabled</label>
         </div>
       </div>
     </div>
     <div class="col-xs-6 half--block flex--center--center">
-      <div class="debug">
-        <div>
-          <input name="radioCss_1" type="radio"/>
-          <label>Styled Radio Button</label>
+      <div class="">
+        <h4 class="text-left">CSS Radio Button</h4>
+        <div class="input--group">
+          <input id="radioCss1a" class="input--nullify" name="radio_1" type="radio"/>
+          <label class="css--label css--radioBtn" for="radioCss1a">Option 1a</label>
         </div>
-        <div>
-          <input name="radioCss_1" type="radio"/>
-          <label>Styled Radio Button</label>
+        <div class="input--group">
+          <input id="radioCss1b" class="input--nullify" name="radio_1" type="radio"/>
+          <label class="css--label css--radioBtn" for="radioCss1b">Option 1b</label>
         </div>
-        <div>
-          <input name="radioCss_2" type="radio" checked="checked">
-          <label>Checked</label>
+        <hr>
+        <div class="input--group">
+          <input id="radioCss2" class="input--nullify" name="radio_2" type="radio" checked="checked">
+          <label class="css--label css--radioBtn" for="radioCss2">Checked</label>
         </div>
-        <div>
-          <input name="radioCss_3" type="radio" disabled="disabled">
-          <label>Disabled</label>
+        <div class="input--group">
+          <input id="radioCss3" class="input--nullify" name="radio_3" type="radio" disabled="disabled">
+          <label class="css--label css--radioBtn" for="radioCss3">Disabled</label>
         </div>
-        <div>
-          <input name="radioCss_4" type="radio" disabled="disabled" checked="checked">
-          <label>Disabled &amp; checked</label>
+        <div class="input--group">
+          <input id="radioCss4" class="input--nullify" name="radio_4" type="radio" disabled="disabled" checked="checked">
+          <label class="css--label css--radioBtn" for="radioCss4">Checked &amp; Disabled</label>
         </div>
       </div>
     </div>
