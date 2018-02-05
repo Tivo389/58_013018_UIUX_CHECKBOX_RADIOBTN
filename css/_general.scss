@@ -86,8 +86,10 @@
 }
 .section--full-view {
   min-height: 100vh;
-  padding: 0 0 5vh 0;
   width: 100vw;
+  .row {
+    width: 100%;
+  }
 }
 .version {
   color: $color--black;

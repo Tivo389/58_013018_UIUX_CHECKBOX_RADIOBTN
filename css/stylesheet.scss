@@ -1,10 +1,104 @@
+
 @charset 'utf-8';
 @import '_reset';
 @import '_variable';
 @import '_font';
 @import '_general';
 
+@keyframes scale {
+  0% {transform: scale(1, 1);}
+  33% {transform: scale(1.1, 1.1);}
+  66% {transform: scale(0.9, 0.9);}
+  100% {transform: scale(1, 1);}
+}
 
+.row {
+  .col-xs-6.half--block {
+    height: 100vh;
+    &:first-child {
+      border-right: 1px solid $color--gray-light;
+    }
+    h4 {
+      margin: 0 0 16px 0;
+    }
+    .input--group {
+      align-items: center;
+      display: flex;
+      margin: 0 0 8px 0;
+      input {
+        margin: 0 6px 0 0;
+        &.input--nullify {
+          opacity: 0;
+          z-index: -1;
+          position: absolute;
+        }
+      }
+      label {
+        font-size: 1.8rem;
+        font-weight: normal;
+        &.css--label {
+            align-items: center;
+            display: flex;
+          &.css--checkbox::before {
+            background-color: $color--gray-light;
+            border-radius: 4px;
+            content: '';
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 20px;
+            margin: 0 6px 0 0;
+            width: 20px;
+          }
+          &.css--radioBtn::before {
+            background-color: $color--gray-light;
+            border-radius: 50%;
+            content: '';
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 20px;
+            margin: 0 6px 0 0;
+            width: 20px;
+          }
+        }
+      }
+      &:last-child {
+        margin: 0;
+      }
+    }
+    /* STATE: UNCHECKED */
+    .input--group:hover .css--label.css--checkbox::before,
+    .input--group:hover .css--label.css--radioBtn::before {
+      background-color: darken($color--gray-light, 10%);
+    }
+    /* STATE: CHECKED */
+    .input--group input:checked ~ .css--label.css--checkbox::before,
+    .input--group input:checked ~ .css--label.css--radioBtn::before {
+      background-color: $color__theme--main;
+      color: $color--white;
+      content: "\f00c";
+      font-family: FontAwesome;
+      font-size: 16px;
+      text-align: center;
+      animation: scale $transition--sm ease;
+    }
+    .input--group input:checked ~ .css--label.css--radioBtn::before {
+
+    }
+    .input--group:hover input:not([disabled]):checked ~ .css--label.css--checkbox::before,
+    .input--group:hover input:not([disabled]):checked ~ .css--label.css--radioBtn::before {
+      background-color: darken($color__theme--main, 10%);
+    }
+    /* STATE: DISABLED */
+    .input--group input:disabled ~ .css--label.css--checkbox::before,
+    .input--group input:disabled ~ .css--label.css--radioBtn::before {
+      pointer-events: none;
+      background-color: lighten($color--gray-light,8%);
+      color: darken($color--gray-light,30%);
+    }
+  }
+}
 
 /* BOOTSTRAP NOTES & RESOLUTION REFERENCE */
 // xs < 768px (.container @ auto)

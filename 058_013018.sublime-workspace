@@ -1,0 +1,2058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input--",
+				"input--nullify"
+			],
+			[
+				"hidde",
+				"hidden \tBootstrap 3 Class"
+			],
+			[
+				"colorrg",
+				"color--gray-light\t stylesheet.scss"
+			],
+			[
+				"color",
+				"color--gray-light\t stylesheet.scss"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fonts-",
+				"font-size"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"fill-",
+				"fill--c\t stylesheet.css"
+			],
+			[
+				"min",
+				"min-height\t(_general.scss)"
+			],
+			[
+				"contain",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"hei",
+				"height--100\t stylesheet.css"
+			],
+			[
+				"flex",
+				"flex--direction--column\t stylesheet.css"
+			],
+			[
+				"color__",
+				"color__theme--sub\t _home.scss"
+			],
+			[
+				"ex",
+				"extTableCellBasics"
+			],
+			[
+				"jsut",
+				"justify-content"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"colorgray",
+				"color--gray-light\t _multiple-select_override.scss"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"felx",
+				"flex--center--center\t(index.html.erb)"
+			],
+			[
+				"du",
+				"durationEnd"
+			],
+			[
+				"dura",
+				"durationStart"
+			],
+			[
+				"dea",
+				"dealYear"
+			],
+			[
+				"wee",
+				"weekDayInteger"
+			],
+			[
+				"po",
+				"post_code"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"spa",
+				"spacer--xs\t _section.scss"
+			],
+			[
+				"colorgra",
+				"color--gray-light\t _form__progress.scss"
+			],
+			[
+				"spac",
+				"spacer--sm\t _home.scss"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"cx",
+				"col-xs-5"
+			],
+			[
+				"sele",
+				"selectedCarriersInput"
+			],
+			[
+				"input",
+				"inputValue"
+			],
+			[
+				"te",
+				"text_area_tag"
+			],
+			[
+				"selected",
+				"selectedCarrierId"
+			],
+			[
+				"card_",
+				"card__carrier\t(show.html.erb)"
+			],
+			[
+				"carri",
+				"carrierCards"
+			],
+			[
+				"match",
+				"matchedCarriers_selectable\t(show.html.erb)"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"card",
+				"card__carrier--info"
+			],
+			[
+				"card__list",
+				"card__list--item"
+			],
+			[
+				"trans",
+				"translateY\t(_form.scss)"
+			],
+			[
+				"font",
+				"font__p\t _navbar.scss"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"spacer",
+				"spacer--sm \t _index.scss"
+			],
+			[
+				"box",
+				"box-shadow--default\t _navbar.scss"
+			],
+			[
+				"contae",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"colorsub",
+				"color__theme--sub\t _form__progress.scss"
+			],
+			[
+				"right",
+				"right \tBootstrap 3 Class"
+			],
+			[
+				"inlineb",
+				"inline__block"
+			],
+			[
+				"conte",
+				"content-box"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"colorhtme",
+				"color__theme--sub\t _form__progress.scss"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"progre",
+				"progress-bar\t(show.html.erb)"
+			],
+			[
+				"progres",
+				"progress-bar\t(_progress_bar.scss)"
+			],
+			[
+				"hid",
+				"hidden \tBootstrap 3 Class"
+			],
+			[
+				"colxs",
+				"col-xs-6"
+			],
+			[
+				"include",
+				"include_hidden\t(new.html.erb)"
+			],
+			[
+				"disa",
+				"disableBoxes"
+			],
+			[
+				"check",
+				"checkBoxCounter"
+			],
+			[
+				"checkBox",
+				"checkBoxCounter"
+			],
+			[
+				"carrier",
+				"carrier_favorite_products--container"
+			],
+			[
+				"true",
+				"trueArray"
+			],
+			[
+				"chebo",
+				"checkBoxCounter"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"colo",
+				"console_log"
+			],
+			[
+				"checkbox",
+				"checkBoxCounter"
+			],
+			[
+				"chekcBox",
+				"checkBoxCounter"
+			],
+			[
+				"querysele",
+				"querySelectorAll\t( selectors: DOMString ): NodeList Document"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"conlo",
+				"console_log"
+			],
+			[
+				"produc",
+				"product__checkbox"
+			],
+			[
+				"getelemen",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"che",
+				"checkedBoxes"
+			],
+			[
+				"function",
+				"function_without_name"
+			],
+			[
+				"form-",
+				"form-control\t(new.html.erb)"
+			],
+			[
+				"chec",
+				"checkbox--container\t(_form.scss)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"label",
+				"label--null\t(_form.scss)"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"colr",
+				"color--black\t _fonts.scss"
+			],
+			[
+				"border-rad",
+				"border-top-right-radius"
+			],
+			[
+				"mul",
+				"multiple-select\t(new.html.erb)"
+			],
+			[
+				"mult",
+				"multiple\t(new.html.erb)"
+			],
+			[
+				"multi",
+				"multiple-select\t(new.html.erb)"
+			],
+			[
+				"mu",
+				"multiple-select.png\t(_multiple-select.scss)"
+			],
+			[
+				"remembe",
+				"remember_me"
+			],
+			[
+				"section",
+				"section__carrier\t(new.html.erb)"
+			],
+			[
+				"pi",
+				"pickups\t(_shipment_form.html.erb)"
+			],
+			[
+				"name",
+				"name_furigana"
+			],
+			[
+				"name_",
+				"name_kanji"
+			],
+			[
+				"backgrou",
+				"background-color\t(_form.scss)"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ext",
+				"extBtnTriangle\t _button.scss"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"line-",
+				"line-height"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"user",
+				"user__name"
+			],
+			[
+				"ava",
+				"avatar__navbar\t(_navbar.html.erb)"
+			],
+			[
+				"dropdown",
+				"dropdown-menu\t(_navbar.html.erb)"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border-bott",
+				"border-bottom-left-radius"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"box-shadow",
+				"box-shadow--default\t _button.scss"
+			],
+			[
+				"list-",
+				"list--sub-parent\t(home.html.erb)"
+			],
+			[
+				"img",
+				"img__flip-y"
+			],
+			[
+				"con",
+				"container-fluid\t(home.html.erb)"
+			],
+			[
+				"hidd",
+				"hidden-lg"
+			],
+			[
+				"hiddn",
+				"hidden-sm"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"chek",
+				"checkmark\t(home.html.erb)"
+			],
+			[
+				"flicker",
+				"flicker-time\t _home.scss"
+			],
+			[
+				"carrer",
+				"carrier_10\t(home.html.erb)"
+			],
+			[
+				"hidden",
+				"hidden-md \tBootstrap 3 Class"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"height",
+				"height--\t _index.scss"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheet.scss",
+			"settings":
+			{
+				"buffer_size": 3682,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"relo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pacla",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"ackali",
+				"Package Control: List Packages"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN"
+	],
+	"file_history":
+	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_variable.scss",
+		"/Users/SHUN/Downloads/CssCheckboxKit_1517820533512636/style.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_font.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_general.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/HTML/V7_JAN_2018/css/_general.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/HTML/V7_JAN_2018/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/56_012218_UIUX_PREFECTURE_DROPDOWN/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/56_012218_UIUX_PREFECTURE_DROPDOWN/index.html",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/notes_deals.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/_deals_shipments_list.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/index.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/config/_colors.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_button.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_card.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/notes_shipper_shipments.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/deals/_index.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_dashboard.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/layouts/_section.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/_shipper_shipments_list.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/index.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/deals/_deals_nav_menu.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/_shipper_shipments_nav_menu.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/db_schema/db_schema.xml",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/pages/home.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/config/_fonts.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/show.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/sessions/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shippers/sessions/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/notes.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/quotes_req.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_index.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_form.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/shipper_shipments/_index.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/registrations/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/config/_variables.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shared/_navbar.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/layouts/application.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/passwords/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shippers/passwords/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/quotes_done.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/Gemfile",
+		"/Users/SHUN/code/Tivo389/transroad/config/environments/development.rb",
+		"/Users/SHUN/code/Tivo389/transroad/Gemfile.lock",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/shippers/passwords_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_form__progress.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipper/shipments/_matchedCarriers_selectable.js.erb",
+		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/multiple-select.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/carrier_favorite_products.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_get_facility.js.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_matchedCarriers_selectable.js.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/show.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/config/initializers/assets.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/matchedCarriers_selectable.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/jquery.jpostal.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/application.js",
+		"/Users/SHUN/code/Tivo389/transroad/config/locales/simple_form.en.yml",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shippers/registrations/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/config/_reset.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_shipment_form.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/layouts/_index.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/config/_bootstrap_variables.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/application.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_progress_bar.scss",
+		"/Users/SHUN/code/Tivo389/transroad/db/seeds.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/shipper/shipments_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/shipments_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_multiple-select_override.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/registrations/_delivery_area.html.erb",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#55_011918_ELOQUENT_JS_CH20_NODE/02_showargv.js",
+		"/Users/SHUN/Dropbox/00_メモ/00BOOK.txt",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_pickup_fields.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/models/shipment.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/inputs/fake_input.rb",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/00_NOTES.txt",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/registrations/_vehicle_fields.html.erb",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2017_0122_0214_SHUNS_PORTFOLIO/NOTES.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#55_011918_ELOQUENT_JS_CH20_NODE/01_hello.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/models/vehicle.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/application_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/cocoon_nested_form.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/models/carrier.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/carriers/registrations_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/config/initializers/simple_form_bootstrap.rb",
+		"/Users/SHUN/code/Tivo389/transroad/config/initializers/simple_form.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/facilities_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/db/schema.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/models/prefecture.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/registrations/_delivery_area_custom.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_navbar.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/unlocks/new.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/layouts/multiple-select.css",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/layouts/_multiple-select.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/layouts/_multiple-select.css",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/selectArea.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/common.js",
+		"/Users/SHUN/code/Tivo389/dotfiles/gitconfig",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/shared/_links.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/shared/_forgotpw.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/shared/_signup.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/pages/_index.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/pages/_sign_in.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/models/pickup.rb",
+		"/Users/SHUN/code/Tivo389/transroad/test.erb",
+		"/Users/SHUN/code/Tivo389/transroad/_pickup_fields.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_pickup.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_pickup_inputs.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/_pickup_form.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/controllers/carriers/sessions_controller.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shipments/new.json.jbuilder",
+		"/Users/SHUN/code/Tivo389/transroad/app/models/facility.rb",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/facilities/_facility_form.html.erb",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#52_110717_JS_AJAX_GEOCODE/js/geocode.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#54_010917_FURIGANA_GETTER/.git/config",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/javascripts/jquery.autoKana.js",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_alert.scss",
+		"/Applications/Cutting Master 2 CraftROBO 1.95/AppData/Language/Dutch/Release/tips.txt",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/pages/_home.scss",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/mailer/email_changed.html.erb",
+		"/Users/SHUN/code/Tivo389/counselor/app/views/shared/_navbar.html.erb",
+		"/Users/SHUN/Desktop/temp.rails",
+		"/Users/SHUN/code/Tivo389/transroad/app/views/shared/_navbar_2.html.erb",
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_branding.scss",
+		"/Users/SHUN/code/Tivo389/transroad/config/locales/en.yml",
+		"/Users/SHUN/code/Tivo389/transroad/config/locales/devise.en.yml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 304.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"nullif",
+			" class=\"input--nullify\"",
+			"nullify",
+			"Styled Radio Button",
+			"_",
+			"radio1",
+			"_",
+			"radio4",
+			"_",
+			"radio4",
+			"id",
+			"checkBox4",
+			"for",
+			"checkBoxCss4",
+			"for",
+			".css--label",
+			"checkBox",
+			"\"\"",
+			"css--label",
+			"radioCss4",
+			"radioCss3",
+			"radioCss2",
+			"<label",
+			"input--nullify",
+			"id",
+			"Css",
+			"radioCss_1",
+			"input--nullify",
+			" id",
+			" id=",
+			"_1",
+			"Checkbox",
+			"0.8",
+			"1.2",
+			"label.",
+			"<label",
+			"<div class=\"input--css input--checkbox\"></div>",
+			"input--css",
+			"~ ",
+			"checkbox__css",
+			"input--css",
+			"control__indicator",
+			"nullify",
+			"control__indicator",
+			"checkbox__css",
+			".control",
+			"          <div class=\"checkbox__css\"></div>\n",
+			"checkbox__css",
+			"id",
+			"debug",
+			"<div>",
+			"div",
+			"<div>",
+			"Default",
+			"h4",
+			"h3",
+			"<label",
+			"Default",
+			"<label",
+			"Checked",
+			"checked",
+			"<h4>Default</h4>",
+			"id=",
+			"id",
+			"for",
+			"id=",
+			"id",
+			"radioBtn",
+			"checkBox",
+			"checkbox",
+			"checkBox",
+			"checkbox",
+			"checkBox",
+			"checkbox",
+			"checkBox",
+			"checkbox",
+			"check_",
+			"radioBtn1",
+			"checkBox4",
+			"checkBox2",
+			"checkBox",
+			"checkBox2",
+			"checkBox1",
+			"      \n",
+			"TEST",
+			"TEST2",
+			" class=\"form-group\"",
+			"form",
+			"input",
+			"group",
+			"chec",
+			"checkBox4",
+			" class=\"control control--checkbox\"",
+			"h1",
+			" debug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4363,
+								4363
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										940,
+										943
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										774,
+										777
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4367,
+										4368
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4357,
+										4358
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "0d3bbd1a",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/stylesheet.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2242,
+								2242
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2723,
+										2724
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										285,
+										286
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2253,
+										2254
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2240,
+										2241
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "e977c582",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 104.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.473594835069,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 376.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "058_013018.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vari",
+				"css/_variable.scss"
+			],
+			[
+				"varia",
+				"css/_variable.scss"
+			],
+			[
+				"font",
+				"css/_font.scss"
+			],
+			[
+				"var",
+				"css/_variable.scss"
+			],
+			[
+				"genera",
+				"css/_general.scss"
+			],
+			[
+				"general",
+				"css/_general.scss"
+			],
+			[
+				"sty",
+				"css/stylesheet.scss"
+			],
+			[
+				"notes",
+				"transroad/app/views/shipper/shipments/notes_shipper_shipments.html.erb"
+			],
+			[
+				"section",
+				"transroad/app/assets/stylesheets/layouts/_section.scss"
+			],
+			[
+				"colorsc",
+				"transroad/app/assets/stylesheets/config/_colors.scss"
+			],
+			[
+				"shippershipments",
+				"transroad/app/views/shipper/shipments/_shipper_shipments_list.html.erb"
+			],
+			[
+				"deasscss",
+				"transroad/app/assets/stylesheets/deals/_index.scss"
+			],
+			[
+				"dealsshiplist",
+				"transroad/app/views/deals/_deals_shipments_list.html.erb"
+			],
+			[
+				"navmen",
+				"transroad/app/views/deals/_deals_nav_menu.html.erb"
+			],
+			[
+				"shipnamen",
+				"transroad/app/views/shipper/shipments/_shipper_shipments_nav_menu.html.erb"
+			],
+			[
+				"schema",
+				"transroad/db_schema/db_schema.xml"
+			],
+			[
+				"button",
+				"transroad/app/assets/stylesheets/components/_button.scss"
+			],
+			[
+				"shippernavmen",
+				"transroad/app/views/shipper/shipments/_shipper_shipments_nav_menu.html.erb"
+			],
+			[
+				"fontscss",
+				"transroad/app/assets/stylesheets/config/_fonts.scss"
+			],
+			[
+				"card",
+				"transroad/app/assets/stylesheets/components/_card.scss"
+			],
+			[
+				"sessnew",
+				"transroad/app/views/shippers/sessions/new.html.erb"
+			],
+			[
+				"shipmenthtml",
+				"transroad/app/views/shipper/shipments/show.html.erb"
+			],
+			[
+				"quote",
+				"transroad/app/views/shipper/shipments/quotes_req.html.erb"
+			],
+			[
+				"indec",
+				"transroad/app/assets/stylesheets/components/_index.scss"
+			],
+			[
+				"formscss",
+				"transroad/app/assets/stylesheets/components/_form.scss"
+			],
+			[
+				"bu",
+				"transroad/app/assets/stylesheets/components/_button.scss"
+			],
+			[
+				"fontsc",
+				"transroad/app/assets/stylesheets/config/_fonts.scss"
+			],
+			[
+				"shipmentsnavme",
+				"transroad/app/views/shipper/shipments/_shipper_shipments_nav_menu.html.erb"
+			],
+			[
+				"show",
+				"transroad/app/views/shipper/shipments/show.html.erb"
+			],
+			[
+				"navbar",
+				"transroad/app/views/shared/_navbar.html.erb"
+			],
+			[
+				"shippershipmelist",
+				"transroad/app/views/shipper/shipments/_shipper_shipments_list.html.erb"
+			],
+			[
+				"carregnew",
+				"transroad/app/views/carriers/registrations/new.html.erb"
+			],
+			[
+				"applicahtmler",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"applicationhtmlerb",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"fonscs",
+				"transroad/app/assets/stylesheets/config/_fonts.scss"
+			],
+			[
+				"sectionscss",
+				"transroad/app/assets/stylesheets/layouts/_section.scss"
+			],
+			[
+				"applica",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"gemf",
+				"transroad/Gemfile"
+			],
+			[
+				"develop",
+				"transroad/config/environments/development.rb"
+			],
+			[
+				"lock",
+				"transroad/Gemfile.lock"
+			],
+			[
+				"gem",
+				"transroad/Gemfile"
+			],
+			[
+				"shipmentshtmlerb",
+				"transroad/app/views/shipper/shipments/index.html.erb"
+			],
+			[
+				"colorscs",
+				"transroad/app/assets/stylesheets/config/_colors.scss"
+			],
+			[
+				"cardsc",
+				"transroad/app/assets/stylesheets/components/_card.scss"
+			],
+			[
+				"variabl",
+				"transroad/app/assets/stylesheets/config/_variables.scss"
+			],
+			[
+				"progress",
+				"transroad/app/assets/stylesheets/components/_form__progress.scss"
+			],
+			[
+				"quotesdone",
+				"transroad/app/views/shipper/shipments/quotes_done.html.erb"
+			],
+			[
+				"cards",
+				"transroad/app/assets/stylesheets/components/_card.scss"
+			],
+			[
+				"form",
+				"transroad/app/assets/stylesheets/components/_form.scss"
+			],
+			[
+				"js",
+				"transroad/app/views/shipper/shipments/_matchedCarriers_selectable.js.erb"
+			],
+			[
+				"multpljs",
+				"transroad/app/assets/javascripts/multiple-select.js"
+			],
+			[
+				"matchedca",
+				"transroad/app/views/shipper/shipments/_matchedCarriers_selectable.js.erb"
+			],
+			[
+				"match",
+				"transroad/app/views/shipments/_matchedCarriers_selectable.js.erb"
+			],
+			[
+				"asset",
+				"transroad/config/initializers/assets.rb"
+			],
+			[
+				"appht",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"asserb",
+				"transroad/config/initializers/assets.rb"
+			],
+			[
+				"appjs",
+				"transroad/app/assets/javascripts/application.js"
+			],
+			[
+				"color",
+				"transroad/app/assets/stylesheets/config/_colors.scss"
+			],
+			[
+				"xml",
+				"transroad/db_schema/db_schema.xml"
+			],
+			[
+				"yml",
+				"transroad/config/locales/simple_form.en.yml"
+			],
+			[
+				"progre",
+				"transroad/app/assets/stylesheets/components/_form__progress.scss"
+			],
+			[
+				"vara",
+				"transroad/app/assets/stylesheets/config/_variables.scss"
+			],
+			[
+				"reset",
+				"transroad/app/assets/stylesheets/config/_reset.scss"
+			],
+			[
+				"sectionscs",
+				"transroad/app/assets/stylesheets/layouts/_section.scss"
+			],
+			[
+				"formscs",
+				"transroad/app/assets/stylesheets/components/_form.scss"
+			],
+			[
+				"bootsta",
+				"transroad/app/assets/stylesheets/config/_bootstrap_variables.scss"
+			],
+			[
+				"appscss",
+				"transroad/app/assets/stylesheets/application.scss"
+			],
+			[
+				"indexscs",
+				"transroad/app/assets/stylesheets/components/_index.scss"
+			],
+			[
+				"shipregnew",
+				"transroad/app/views/shippers/registrations/new.html.erb"
+			],
+			[
+				"seed",
+				"transroad/db/seeds.rb"
+			],
+			[
+				"shimpentcontroll",
+				"transroad/app/controllers/shipments_controller.rb"
+			],
+			[
+				"shipmecontroller",
+				"transroad/app/controllers/shipper/shipments_controller.rb"
+			],
+			[
+				"over",
+				"transroad/app/assets/stylesheets/components/_multiple-select_override.scss"
+			],
+			[
+				"deliveryarea",
+				"transroad/app/views/carriers/registrations/_delivery_area.html.erb"
+			],
+			[
+				"db",
+				"transroad/db_schema/db_schema.xml"
+			],
+			[
+				"x",
+				"transroad/db_schema/db_schema.xml"
+			],
+			[
+				"sche",
+				"transroad/db_schema/db_schema.xml"
+			],
+			[
+				"pickup",
+				"transroad/app/views/shipments/_pickup_fields.html.erb"
+			],
+			[
+				"shipmentr",
+				"transroad/app/models/shipment.rb"
+			],
+			[
+				"pickupfie",
+				"transroad/app/views/shipments/_pickup_fields.html.erb"
+			],
+			[
+				"shipment",
+				"transroad/app/models/shipment.rb"
+			],
+			[
+				"fake",
+				"transroad/app/inputs/fake_input.rb"
+			],
+			[
+				"carriernew",
+				"transroad/app/views/carriers/registrations/new.html.erb"
+			],
+			[
+				"vehicfie",
+				"transroad/app/views/carriers/registrations/_vehicle_fields.html.erb"
+			],
+			[
+				"shipmentform",
+				"transroad/app/views/shipments/_shipment_form.html.erb"
+			],
+			[
+				"vhe",
+				"transroad/app/models/vehicle.rb"
+			],
+			[
+				"shiregnew",
+				"transroad/app/views/shippers/registrations/new.html.erb"
+			],
+			[
+				"deliver",
+				"transroad/app/views/carriers/registrations/_delivery_area.html.erb"
+			],
+			[
+				"asse",
+				"transroad/config/initializers/assets.rb"
+			],
+			[
+				"control",
+				"transroad/app/controllers/application_controller.rb"
+			],
+			[
+				"regnew",
+				"transroad/app/views/carriers/registrations/new.html.erb"
+			],
+			[
+				"appcontr",
+				"transroad/app/controllers/application_controller.rb"
+			],
+			[
+				"forms",
+				"transroad/app/assets/stylesheets/components/_form.scss"
+			],
+			[
+				"cocoon",
+				"transroad/app/assets/javascripts/cocoon_nested_form.js"
+			],
+			[
+				"v",
+				"transroad/app/models/vehicle.rb"
+			],
+			[
+				"vehi",
+				"transroad/app/views/carriers/registrations/_vehicle_fields.html.erb"
+			],
+			[
+				"carr",
+				"transroad/app/models/carrier.rb"
+			],
+			[
+				"shipmen",
+				"transroad/app/controllers/shipments_controller.rb"
+			],
+			[
+				"regiscontro",
+				"transroad/app/controllers/carriers/registrations_controller.rb"
+			],
+			[
+				"appcontro",
+				"transroad/app/controllers/application_controller.rb"
+			],
+			[
+				"vehic",
+				"transroad/app/models/vehicle.rb"
+			],
+			[
+				"shipnew",
+				"transroad/app/views/shipments/new.html.erb"
+			],
+			[
+				"shipm",
+				"transroad/app/views/shipments/_shipment_form.html.erb"
+			],
+			[
+				"carrierrb",
+				"transroad/app/models/carrier.rb"
+			],
+			[
+				"simp",
+				"transroad/config/initializers/simple_form_bootstrap.rb"
+			],
+			[
+				"simpe",
+				"transroad/config/initializers/simple_form.rb"
+			],
+			[
+				"mult",
+				"transroad/app/assets/stylesheets/components/_multiple-select_override.scss"
+			],
+			[
+				"controller",
+				"transroad/app/controllers/application_controller.rb"
+			],
+			[
+				"carrier",
+				"transroad/app/models/carrier.rb"
+			],
+			[
+				"carriercontroller",
+				"transroad/app/controllers/carriers/registrations_controller.rb"
+			],
+			[
+				"veh",
+				"transroad/app/models/vehicle.rb"
+			],
+			[
+				"vehiclrb",
+				"transroad/app/models/vehicle.rb"
+			],
+			[
+				"delivert",
+				"transroad/app/views/carriers/registrations/_delivery_area.html.erb"
+			],
+			[
+				"deliverarea",
+				"transroad/app/views/carriers/registrations/_delivery_area.html.erb"
+			],
+			[
+				"deliveryar",
+				"transroad/app/views/carriers/registrations/_delivery_area.html.erb"
+			],
+			[
+				"multjs",
+				"transroad/app/assets/javascripts/multiple-select.js"
+			],
+			[
+				"navbarscss",
+				"transroad/app/assets/stylesheets/components/_navbar.scss"
+			],
+			[
+				"multijs",
+				"transroad/app/assets/javascripts/multiple-select.js"
+			],
+			[
+				"mu",
+				"transroad/app/assets/stylesheets/components/_multiple-select_override.scss"
+			],
+			[
+				"ass",
+				"transroad/config/initializers/assets.rb"
+			],
+			[
+				"applihtmer",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"applhtml",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"applicahtm",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"apphtm",
+				"transroad/app/views/layouts/application.html.erb"
+			],
+			[
+				"indexscss",
+				"transroad/app/assets/stylesheets/components/_index.scss"
+			],
+			[
+				"mutl",
+				"transroad/app/assets/stylesheets/layouts/multiple-select.css"
+			],
+			[
+				"assetsrb",
+				"transroad/config/initializers/assets.rb"
+			],
+			[
+				"applicationhtmler",
+				"transroad/app/views/layouts/application.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 634.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 677.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
