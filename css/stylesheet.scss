@@ -67,12 +67,12 @@
         margin: 0;
       }
     }
-    /* STATE: UNCHECKED */
+    /* CHECKBOX & RADIO BTN STATE: UNCHECKED */
     .input--group:hover .css--label.css--checkbox::before,
     .input--group:hover .css--label.css--radioBtn::before {
       background-color: darken($color--gray-light, 10%);
     }
-    /* STATE: CHECKED */
+    /* CHECKBOX & RADIO BTN STATE: CHECKED */
     .input--group input:checked ~ .css--label.css--checkbox::before,
     .input--group input:checked ~ .css--label.css--radioBtn::before {
       background-color: $color__theme--main;
@@ -90,13 +90,59 @@
     .input--group:hover input:not([disabled]):checked ~ .css--label.css--radioBtn::before {
       background-color: darken($color__theme--main, 10%);
     }
-    /* STATE: DISABLED */
+    /* CHECKBOX & RADIO BTN STATE: DISABLED */
     .input--group input:disabled ~ .css--label.css--checkbox::before,
     .input--group input:disabled ~ .css--label.css--radioBtn::before {
       pointer-events: none;
       background-color: lighten($color--gray-light,8%);
       color: darken($color--gray-light,30%);
     }
+    /* INPUT SPINNER STATE: DEFAULT CONFIG */
+    input[type=number].spinner--nullify::-webkit-inner-spin-button,
+    input[type=number].spinner--nullify::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+    }
+    input[type=number].spinner--nullify {
+      border-radius: 2px;
+      border: 1px solid $color--gray-dark;
+      font-size: 1.8rem;
+      margin: 2px;
+      padding: 2px 6px;
+      &:focus {
+        outline: none;
+        border-width: 2px;
+        margin: 1px;
+      }
+    }
+    %extSpinner {
+      align-items: center;
+      background-color: $color__theme--main;
+      color: $color--white;
+      display: flex;
+      font-family: FontAwesome;
+      font-size: 2.2rem;
+      height: 27px;
+      justify-content: center;
+      margin: 2px;
+      padding: 1px 0 0 0;
+      width: 27px;
+    }
+    .input--group--spinner {
+      display: flex;
+      .spinner-- {
+        &up::before {
+          @extend %extSpinner;
+          content: '\f067';
+        }
+        &down::before {
+          @extend %extSpinner;
+          content: '\f068';
+        }
+      }
+    }
+    /* INPUT SPINNER STATE: UNCHECKED */
+    /* INPUT SPINNER STATE: CHECKED */
+    /* INPUT SPINNER STATE: DISABLED */
   }
 }
 
