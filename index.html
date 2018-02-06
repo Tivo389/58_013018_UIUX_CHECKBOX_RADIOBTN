@@ -11,7 +11,8 @@
 <body>
 
 <div class="container-fluid">
-  <div class="row">
+
+  <div class="row hidden">
     <div class="col-xs-6 half--block flex--center--center">
       <div class="">
         <h4 class="text-left">Default Checkbox</h4>
@@ -55,7 +56,8 @@
       </div>
     </div>
   </div>
-  <div class="row">
+
+  <div class="row hidden">
     <div class="col-xs-6 half--block flex--center--center">
       <div class="">
         <h4 class="text-left">Default Radio Button</h4>
@@ -109,6 +111,28 @@
       </div>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col-xs-6 half--block flex--center--center">
+      <div class="">
+        <h4 class="text-left">Default Spinner</h4>
+        <div class="input--group">
+          <input id="spinner" name="spinner" type="number" value="0" min="0">
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-6 half--block flex--center--center">
+      <div class="">
+        <h4 class="text-left">CSS Spinner</h4>
+        <div class="input--group--spinner">
+          <input id="spinnerCss" class="spinner--nullify" name="spinnerCss" type="number" value="0" min="0">
+          <div class="spinner--up"></div>
+          <div class="spinner--down"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 </body>
