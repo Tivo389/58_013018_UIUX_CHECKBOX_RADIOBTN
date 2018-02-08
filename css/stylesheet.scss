@@ -67,6 +67,11 @@
         margin: 0;
       }
     }
+    .mini {
+      color: $color--gray;
+      font-size: 1.4rem;
+      text-align: left;
+    }
     /* CHECKBOX & RADIO BTN STATE: UNCHECKED */
     .input--group:hover .css--label.css--checkbox::before,
     .input--group:hover .css--label.css--radioBtn::before {
@@ -100,6 +105,7 @@
       -webkit-appearance: none;
     }
     input[type=number].spinner--nullify {
+      -moz-appearance: textfield; // For firefox
       border: 0;
       font-size: 1.8rem;
       margin: 0;
@@ -137,6 +143,38 @@
           margin: 0 2px 0 0;
         }
       }
+    }
+    /* SELECT DROPDOWN STATE: DEFAULT CONFIG */
+    select.select--nullify {
+      appearance: none;
+      border: 0;
+      font-size: 1.8rem;
+      margin: 0;
+      outline: none;
+      padding: 3px 0 0 9px;
+      option {
+        font-size: 1.8rem;
+      }
+    }
+    #selectCss {
+      width: 110px;
+      height: 27px;
+      background-color: transparent;
+      z-index: 1;
+    }
+    .input--group--select {
+      display: inline-flex;
+      border-radius: 2px;
+      border: 1px solid $color__theme--main;
+      position: relative;
+    }
+    .select--arrow::after {
+      @extend %extSpinner;
+      content: '\f0dd';
+      padding: 0 0 8px 0;
+      position: absolute;
+      right: 0;
+      top: 0;
     }
   }
 }
