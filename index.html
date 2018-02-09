@@ -12,7 +12,7 @@
 
 <div class="container-fluid">
 
-  <div class="row">
+  <div class="row hidden">
     <div class="col-xs-6 half--block flex--center--center">
       <div class="">
         <h4 class="text-left">Default Checkbox</h4>
@@ -57,7 +57,7 @@
     </div>
   </div>
 
-  <div class="row">
+  <div class="row hidden">
     <div class="col-xs-6 half--block flex--center--center">
       <div class="">
         <h4 class="text-left">Default Radio Button</h4>
@@ -112,7 +112,7 @@
     </div>
   </div>
 
-  <div class="row">
+  <div class="row hidden">
     <div class="col-xs-6 half--block flex--center--center">
       <div class="">
         <h4 class="text-left">Default Spinner</h4>
@@ -133,7 +133,7 @@
     </div>
   </div>
 
-  <div class="row">
+  <div class="row hidden">
     <div class="col-xs-6 half--block flex--center--center">
       <div class="">
         <h4 class="text-left">Default Select</h4>
@@ -175,12 +175,16 @@
       <div class="">
         <p class="mini">Pseudo &lt;select&gt;</p>
         <h4 class="text-left">CSS Select</h4>
-        <!-- CONTINUE HERE THINK ABOUt HOW to ACHIEVE tHIS.... -->
-        <ul id="selectCss" class="select--nullify">
-          <li value="value1">Value 1</li>
-          <li value="value2">Value 2</li>
-          <li value="value3">Value 3</li>
-        </ul>
+        <select id="source">
+            <option value="BR" selected="selected">Brasil</option>
+            <option value="FR">France</option>
+            <option value="DE">Germany</option>
+            <option value="IN">India</option>
+            <option value="JP">Japan</option>
+            <option value="RS">Serbia</option>
+            <option value="UK">United Kingdom</option>
+            <option value="US">United States</option>
+        </select>
       </div>
     </div>
   </div>
@@ -191,4 +195,5 @@
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="js/spinner.js"></script>
+<script src="js/pseudoSelect.js"></script>
 </html>

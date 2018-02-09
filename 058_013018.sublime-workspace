@@ -5,7 +5,35 @@
 		[
 			[
 				"color",
-				"color__theme--main\t stylesheet.scss"
+				"color--gray-light\t stylesheet.scss"
+			],
+			[
+				"select",
+				"selectLength"
+			],
+			[
+				"selec",
+				"selectSize"
+			],
+			[
+				"sel",
+				"selectLength"
+			],
+			[
+				"justif",
+				"justify-content"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"input",
+				"input--nullify\t stylesheet.scss"
 			],
 			[
 				"spinn",
@@ -172,10 +200,6 @@
 				"selectedCarriersInput"
 			],
 			[
-				"input",
-				"inputValue"
-			],
-			[
 				"te",
 				"text_area_tag"
 			],
@@ -222,10 +246,6 @@
 			[
 				"paddi",
 				"padding-top"
-			],
-			[
-				"border",
-				"border-radius"
 			],
 			[
 				"spacer",
@@ -392,10 +412,6 @@
 				"color--black\t _fonts.scss"
 			],
 			[
-				"border-rad",
-				"border-top-right-radius"
-			],
-			[
 				"mul",
 				"multiple-select\t(new.html.erb)"
 			],
@@ -498,22 +514,6 @@
 			[
 				"list-",
 				"list--sub-parent\t(home.html.erb)"
-			],
-			[
-				"img",
-				"img__flip-y"
-			],
-			[
-				"con",
-				"container-fluid\t(home.html.erb)"
-			],
-			[
-				"hidd",
-				"hidden-lg"
-			],
-			[
-				"hiddn",
-				"hidden-sm"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5972,
+				"buffer_size": 7745,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,7 +532,7 @@
 			"file": "css/stylesheet.scss",
 			"settings":
 			{
-				"buffer_size": 4767,
+				"buffer_size": 5619,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -728,8 +728,9 @@
 	[
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/js/spinner.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_variable.scss",
-		"/Users/SHUN/Downloads/CssCheckboxKit_1517820533512636/style.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_reset.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_font.scss",
+		"/Users/SHUN/Downloads/CssCheckboxKit_1517820533512636/style.css",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_general.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
@@ -852,8 +853,7 @@
 		"/Users/SHUN/code/Tivo389/counselor/app/views/shared/_navbar.html.erb",
 		"/Users/SHUN/Desktop/temp.rails",
 		"/Users/SHUN/code/Tivo389/transroad/app/views/shared/_navbar_2.html.erb",
-		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_branding.scss",
-		"/Users/SHUN/code/Tivo389/transroad/config/locales/en.yml"
+		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_branding.scss"
 	],
 	"find":
 	{
@@ -871,6 +871,17 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"option",
+			"select",
+			"span",
+			" hidden",
+			"change",
+			" hidden",
+			"none",
+			"INPUT",
+			"row",
+			"webkit",
+			"-webkit-",
 			"color--gray-dark",
 			"value",
 			"%extBtnNull",
@@ -1003,15 +1014,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5972,
+						"buffer_size": 7745,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2538,
-								2538
+								7024,
+								7024
 							]
 						],
 						"settings":
@@ -1020,6 +1031,14 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -1039,24 +1058,24 @@
 								{
 									"1":
 									[
-										458,
-										459
+										7420,
+										7423
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										447,
-										448
+										6970,
+										6973
 									]
 								},
 								"unmatched":
@@ -1127,24 +1146,24 @@
 								{
 									"1":
 									[
-										2545,
-										2546
+										7420,
+										7423
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										2534,
-										2535
+										6970,
+										6973
 									]
 								},
 								"unmatched":
@@ -1216,7 +1235,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1068.0,
+						"translation.y": 3283.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1234,15 +1253,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4767,
+						"buffer_size": 5619,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3791,
-								3791
+								2307,
+								2307
 							]
 						],
 						"settings":
@@ -1260,33 +1279,31 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
 								}
 							],
 							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone": 123,
 							"bracket_highlighter.clone_locations":
 							{
 								"close":
 								{
 									"1":
 									[
-										3238,
-										3239
-									],
-									"2":
-									[
-										3238,
-										3239
+										2306,
+										2307
 									]
 								},
 								"icon":
 								{
 									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									],
-									"2":
 									[
 										"Packages/BracketHighlighter/icons/curly_bracket.png",
 										"region.purplish"
@@ -1296,13 +1313,8 @@
 								{
 									"1":
 									[
-										3045,
-										3046
-									],
-									"2":
-									[
-										3045,
-										3046
+										2077,
+										2078
 									]
 								},
 								"unmatched":
@@ -1371,27 +1383,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										3867,
-										3868
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										3769,
-										3770
-									]
 								},
 								"unmatched":
 								{
@@ -1458,11 +1455,11 @@
 							"bs_sintax": "scss",
 							"buffer_scroll_name": "e977c582",
 							"git_gutter_is_enabled": true,
-							"spell_check": false,
+							"spell_check": true,
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2228.0,
+						"translation.y": 3472.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1499,7 +1496,7 @@
 		"cols":
 		[
 			0.0,
-			0.52833299513,
+			0.505050117526,
 			1.0
 		],
 		"rows":
@@ -1543,11 +1540,15 @@
 		"selected_items":
 		[
 			[
-				"vari",
-				"css/_variable.scss"
+				"js",
+				"js/spinner.js"
 			],
 			[
-				"varia",
+				"reset",
+				"css/_reset.scss"
+			],
+			[
+				"var",
 				"css/_variable.scss"
 			],
 			[
@@ -1555,7 +1556,15 @@
 				"css/_font.scss"
 			],
 			[
-				"var",
+				"vari",
+				"css/_variable.scss"
+			],
+			[
+				"fonts",
+				"css/_font.scss"
+			],
+			[
+				"varia",
 				"css/_variable.scss"
 			],
 			[
@@ -1739,10 +1748,6 @@
 				"transroad/app/assets/stylesheets/components/_form.scss"
 			],
 			[
-				"js",
-				"transroad/app/views/shipper/shipments/_matchedCarriers_selectable.js.erb"
-			],
-			[
 				"multpljs",
 				"transroad/app/assets/javascripts/multiple-select.js"
 			],
@@ -1789,10 +1794,6 @@
 			[
 				"vara",
 				"transroad/app/assets/stylesheets/config/_variables.scss"
-			],
-			[
-				"reset",
-				"transroad/app/assets/stylesheets/config/_reset.scss"
 			],
 			[
 				"sectionscs",
@@ -2049,10 +2050,6 @@
 			[
 				"assetsrb",
 				"transroad/config/initializers/assets.rb"
-			],
-			[
-				"applicationhtmler",
-				"transroad/app/views/layouts/application.html.erb"
 			]
 		],
 		"width": 0.0
@@ -2075,7 +2072,7 @@
 		],
 		"width": 392.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
