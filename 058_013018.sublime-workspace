@@ -4,8 +4,60 @@
 		"selected_items":
 		[
 			[
+				"parent",
+				"parent\t: WindowProxy Window"
+			],
+			[
+				"current",
+				"currentTarget\t: EventTarget Event"
+			],
+			[
+				"pare",
+				"parent\t: WindowProxy Window"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
 				"color",
-				"color__theme--main\t stylesheet.scss"
+				"color--white\t stylesheet.scss"
+			],
+			[
+				"clor",
+				"color--black\t _general.scss"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"select",
+				"selectLength"
+			],
+			[
+				"selec",
+				"selectSize"
+			],
+			[
+				"sel",
+				"selectLength"
+			],
+			[
+				"justif",
+				"justify-content"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"input",
+				"input--nullify\t stylesheet.scss"
 			],
 			[
 				"spinn",
@@ -172,10 +224,6 @@
 				"selectedCarriersInput"
 			],
 			[
-				"input",
-				"inputValue"
-			],
-			[
 				"te",
 				"text_area_tag"
 			],
@@ -222,10 +270,6 @@
 			[
 				"paddi",
 				"padding-top"
-			],
-			[
-				"border",
-				"border-radius"
 			],
 			[
 				"spacer",
@@ -392,10 +436,6 @@
 				"color--black\t _fonts.scss"
 			],
 			[
-				"border-rad",
-				"border-top-right-radius"
-			],
-			[
 				"mul",
 				"multiple-select\t(new.html.erb)"
 			],
@@ -474,46 +514,6 @@
 			[
 				"text-",
 				"text-align"
-			],
-			[
-				"border-bott",
-				"border-bottom-left-radius"
-			],
-			[
-				"backgor",
-				"background-color"
-			],
-			[
-				"ali",
-				"align-items"
-			],
-			[
-				"list",
-				"list-style"
-			],
-			[
-				"box-shadow",
-				"box-shadow--default\t _button.scss"
-			],
-			[
-				"list-",
-				"list--sub-parent\t(home.html.erb)"
-			],
-			[
-				"img",
-				"img__flip-y"
-			],
-			[
-				"con",
-				"container-fluid\t(home.html.erb)"
-			],
-			[
-				"hidd",
-				"hidden-lg"
-			],
-			[
-				"hiddn",
-				"hidden-sm"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5972,
+				"buffer_size": 8320,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,9 +532,19 @@
 			"file": "css/stylesheet.scss",
 			"settings":
 			{
-				"buffer_size": 4767,
+				"buffer_size": 7540,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/pseudoSelect.js",
+			"settings":
+			{
+				"buffer_size": 2091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "function createDropDown(){"
 			}
 		}
 	],
@@ -726,10 +736,13 @@
 	],
 	"file_history":
 	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/.gitignore",
+		"/Users/SHUN/Downloads/DropDown/index.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/js/spinner.js",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_variable.scss",
-		"/Users/SHUN/Downloads/CssCheckboxKit_1517820533512636/style.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_reset.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_font.scss",
+		"/Users/SHUN/Downloads/CssCheckboxKit_1517820533512636/style.css",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/58_013018_UIUX_CHECKBOX_RADIOBTN/css/_general.scss",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/JS_PHOTO_BW_2_COLOR.html",
 		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/48_072817_JS_PHOTO_BW_2_COLOR/css/stylesheet.scss",
@@ -850,14 +863,11 @@
 		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/pages/_home.scss",
 		"/Users/SHUN/code/Tivo389/transroad/app/views/carriers/mailer/email_changed.html.erb",
 		"/Users/SHUN/code/Tivo389/counselor/app/views/shared/_navbar.html.erb",
-		"/Users/SHUN/Desktop/temp.rails",
-		"/Users/SHUN/code/Tivo389/transroad/app/views/shared/_navbar_2.html.erb",
-		"/Users/SHUN/code/Tivo389/transroad/app/assets/stylesheets/components/_branding.scss",
-		"/Users/SHUN/code/Tivo389/transroad/config/locales/en.yml"
+		"/Users/SHUN/Desktop/temp.rails"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -871,6 +881,42 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"value3",
+			"value2",
+			"Brasil",
+			"0 0 8px",
+			"27",
+			"1px",
+			" hidden",
+			"target",
+			"9999",
+			"clickTargetId",
+			"; ",
+			";",
+			"hidden",
+			"#816c5b",
+			"{",
+			".dropdown ",
+			"6b6b6b",
+			".desc",
+			";}",
+			"(){",
+			"append",
+			"arrow.png",
+			"row",
+			"target",
+			"#target",
+			"option",
+			"select",
+			"span",
+			" hidden",
+			"change",
+			" hidden",
+			"none",
+			"INPUT",
+			"row",
+			"webkit",
+			"-webkit-",
 			"color--gray-dark",
 			"value",
 			"%extBtnNull",
@@ -962,21 +1008,7 @@
 			"radioBtn1",
 			"checkBox4",
 			"checkBox2",
-			"checkBox",
-			"checkBox2",
-			"checkBox1",
-			"      \n",
-			"TEST",
-			"TEST2",
-			" class=\"form-group\"",
-			"form",
-			"input",
-			"group",
-			"chec",
-			"checkBox4",
-			" class=\"control control--checkbox\"",
-			"h1",
-			" debug"
+			"checkBox"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1003,15 +1035,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5972,
+						"buffer_size": 8320,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2538,
-								2538
+								7630,
+								7630
 							]
 						],
 						"settings":
@@ -1020,6 +1052,18 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -1039,24 +1083,24 @@
 								{
 									"1":
 									[
-										458,
-										459
+										6920,
+										6926
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										447,
-										448
+										6889,
+										6895
 									]
 								},
 								"unmatched":
@@ -1127,24 +1171,24 @@
 								{
 									"1":
 									[
-										2545,
-										2546
+										7623,
+										7629
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										2534,
-										2535
+										7597,
+										7603
 									]
 								},
 								"unmatched":
@@ -1216,10 +1260,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1068.0,
+						"translation.y": 3042.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1234,15 +1278,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4767,
+						"buffer_size": 7540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3791,
-								3791
+								535,
+								535
 							]
 						],
 						"settings":
@@ -1251,6 +1295,18 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -1270,23 +1326,13 @@
 								{
 									"1":
 									[
-										3238,
-										3239
-									],
-									"2":
-									[
-										3238,
-										3239
+										1613,
+										1614
 									]
 								},
 								"icon":
 								{
 									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									],
-									"2":
 									[
 										"Packages/BracketHighlighter/icons/curly_bracket.png",
 										"region.purplish"
@@ -1296,13 +1342,8 @@
 								{
 									"1":
 									[
-										3045,
-										3046
-									],
-									"2":
-									[
-										3045,
-										3046
+										486,
+										487
 									]
 								},
 								"unmatched":
@@ -1373,8 +1414,8 @@
 								{
 									"1":
 									[
-										3867,
-										3868
+										1613,
+										1614
 									]
 								},
 								"icon":
@@ -1389,8 +1430,8 @@
 								{
 									"1":
 									[
-										3769,
-										3770
+										486,
+										487
 									]
 								},
 								"unmatched":
@@ -1462,10 +1503,221 @@
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2228.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/pseudoSelect.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2027,
+								2027
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function createDropDown(){",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1940,
+										1941
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										29,
+										30
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2088,
+										2089
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										29,
+										30
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "d8336615",
+							"git_gutter_is_enabled": true,
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1499,7 +1751,7 @@
 		"cols":
 		[
 			0.0,
-			0.52833299513,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1543,11 +1795,19 @@
 		"selected_items":
 		[
 			[
-				"vari",
-				"css/_variable.scss"
+				"git",
+				".gitignore"
 			],
 			[
-				"varia",
+				"js",
+				"js/spinner.js"
+			],
+			[
+				"reset",
+				"css/_reset.scss"
+			],
+			[
+				"var",
 				"css/_variable.scss"
 			],
 			[
@@ -1555,7 +1815,15 @@
 				"css/_font.scss"
 			],
 			[
-				"var",
+				"vari",
+				"css/_variable.scss"
+			],
+			[
+				"fonts",
+				"css/_font.scss"
+			],
+			[
+				"varia",
 				"css/_variable.scss"
 			],
 			[
@@ -1739,10 +2007,6 @@
 				"transroad/app/assets/stylesheets/components/_form.scss"
 			],
 			[
-				"js",
-				"transroad/app/views/shipper/shipments/_matchedCarriers_selectable.js.erb"
-			],
-			[
 				"multpljs",
 				"transroad/app/assets/javascripts/multiple-select.js"
 			],
@@ -1789,10 +2053,6 @@
 			[
 				"vara",
 				"transroad/app/assets/stylesheets/config/_variables.scss"
-			],
-			[
-				"reset",
-				"transroad/app/assets/stylesheets/config/_reset.scss"
 			],
 			[
 				"sectionscs",
@@ -2045,14 +2305,6 @@
 			[
 				"mutl",
 				"transroad/app/assets/stylesheets/layouts/multiple-select.css"
-			],
-			[
-				"assetsrb",
-				"transroad/config/initializers/assets.rb"
-			],
-			[
-				"applicationhtmler",
-				"transroad/app/views/layouts/application.html.erb"
 			]
 		],
 		"width": 0.0
@@ -2075,7 +2327,7 @@
 		],
 		"width": 392.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},

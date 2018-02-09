@@ -13,10 +13,11 @@
 }
 
 .row {
+  border-bottom: 2px solid $color--gray;
   .col-xs-6.half--block {
     height: 100vh;
     &:first-child {
-      border-right: 1px solid $color--gray-light;
+      // border-right: 2px dashed $color--gray-light;
     }
     h4 {
       margin: 0 0 16px 0;
@@ -72,6 +73,7 @@
       font-size: 1.4rem;
       text-align: left;
     }
+    // -----------------------------------------
     /* CHECKBOX & RADIO BTN STATE: UNCHECKED */
     .input--group:hover .css--label.css--checkbox::before,
     .input--group:hover .css--label.css--radioBtn::before {
@@ -99,6 +101,7 @@
       background-color: lighten($color--gray-light,8%);
       color: darken($color--gray-light,30%);
     }
+    // -----------------------------------------
     /* INPUT SPINNER STATE: DEFAULT CONFIG */
     input[type=number].spinner--nullify::-webkit-inner-spin-button,
     input[type=number].spinner--nullify::-webkit-outer-spin-button {
@@ -131,7 +134,7 @@
     .input--group--spinner {
       display: inline-flex;
       border-radius: 2px;
-      border: 1px solid $color__theme--main;
+      border: 2px solid $color__theme--main;
       .spinner-- {
         &up::before {
           @extend %extSpinner;
@@ -140,10 +143,11 @@
         &down::before {
           @extend %extSpinner;
           content: '\f068';
-          margin: 0 2px 0 0;
+          margin: 0 3px 0 0;
         }
       }
     }
+    // -----------------------------------------
     /* SELECT DROPDOWN STATE: DEFAULT CONFIG */
     select.select--nullify {
       appearance: none;
@@ -165,16 +169,84 @@
     .input--group--select {
       display: inline-flex;
       border-radius: 2px;
-      border: 1px solid $color__theme--main;
+      border: 2px solid $color__theme--main;
       position: relative;
     }
     .select--arrow::after {
       @extend %extSpinner;
       content: '\f0dd';
-      padding: 0 0 8px 0;
+      padding: 0 0 8px 2px;
       position: absolute;
       right: 0;
       top: 0;
+    }
+    // -----------------------------------------
+    #source {
+      display: none;
+    }
+    div.input--pseudo--select {
+      dl.dropdown {
+        border:2px solid $color__theme--main;
+        padding: 0 0 1px 0;
+        position: relative;
+        width: 180px;
+        span.value {
+          display:none;
+        }
+        a, a:hover, a:visited {
+          color: $color--black;
+          font-size: 1.8rem;
+          text-decoration: none;
+          outline: none;
+        }
+        dt {
+          background-color: $color--white;
+          display:block;
+          font-size: 1.8rem;
+          margin: 0;
+          font-weight: normal;
+          position: relative;
+          &::after {
+            @extend %extSpinner;
+            content: '\f0dd';
+            padding: 0 0 8px 2px;
+            position: absolute;
+            right: 0;
+            top: 0;
+          }
+          a {
+            padding: 1px 6px 0 6px;
+          }
+        }
+        dd {
+          top: 26px;
+          left: 0;
+          position: absolute;
+          padding: 0 1px;
+          width: calc(100% - 27px);
+          ul {
+            background-color: $color--white;
+            border-bottom-left-radius: 2px;
+            border-bottom-right-radius: 2px;
+            border:2px solid $color__theme--main;
+            display: none;
+            list-style: none;
+            margin: 0 -3px;
+            a {
+              &:hover {
+                color: $color--white;
+              }
+              li {
+                padding: 4px 8px;
+                text-align: left;
+                &:hover {
+                  background-color: $color__theme--main;
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
